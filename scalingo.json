@@ -28,6 +28,7 @@
       "required": false
     },
     "BUILDPACK_URL": {
+      "description": "link for buildpack"
       "value": "https://github.com/Scalingo/multi-buildpack.git"
   }
 }
