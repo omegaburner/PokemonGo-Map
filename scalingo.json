@@ -4,7 +4,7 @@
   "repository": "https://github.com/PokemonGoMap/PokemonGo-Map",
   "website": "https://jz6.github.io/PoGoMap/",
   "env": {
-    "BUILDPACKS_URL": {
+    "BUILDPACK_URL": {
       "description": "Sets Buildpacks",
       "value": "https://github.com/Scalingo/multi-buildpack.git"
     },
