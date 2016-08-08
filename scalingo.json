@@ -30,10 +30,6 @@
     "EXTRA_ARGS": {
       "description": "Any extra arguments that you want to pass to runserver.py.",
       "required": false
-    },
-    "BUILDPACKS_URL": {
-      "description": "Sets Buildpacks",
-      "value": "https://github.com/Scalingo/multi-buildpack.git"
     }
   }
 }
